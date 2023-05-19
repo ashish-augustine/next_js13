@@ -1,4 +1,4 @@
-## Next.js 13 App
+## Next.js 13 Application 
 
 - Next.js 13 Client Components 
 - Server Components
