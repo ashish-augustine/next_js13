@@ -1,4 +1,4 @@
-## Next.js 13 Application Functionalities
+## Project Functionalities
 
 - Next.js 13 Client Components 
 - Server Components
